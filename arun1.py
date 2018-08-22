@@ -4,5 +4,7 @@ b=20
 
 
 c=a+b
+d=a*b
 print(c)
 print("hello")
+print(d)
