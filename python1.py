@@ -1,4 +1,4 @@
-printf("rock on")
-printf("devops at its best")
+print("rock on")
+print("devops at its best")
 
-printf("Arunvel")
+print("Arunvel")
